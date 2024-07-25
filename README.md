@@ -2,7 +2,7 @@
 
 This Python program implements a simple Hotel Guest Reservation System where users can add, display, and cancel reservations.
 
-## Features
+<h2>🧐 Features</h2>
 
 - **Add Reservation:** Allows adding a new reservation with a unique ID, guest name, date and time, and number of guests.
 - **Display Reservations:** Lists all existing reservations with details.
